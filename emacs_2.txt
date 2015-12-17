@@ -1,0 +1,9 @@
+#'C'='Control key', 'M'='Meta Key'.
+
+(1)How to open the tutorial on emacs.
+C-h
+t
+
+(2)How to close the tutorial on emacs.
+C-x
+C-c
