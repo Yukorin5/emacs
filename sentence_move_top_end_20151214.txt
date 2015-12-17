@@ -1,0 +1,8 @@
+#Go to the top of the file.
+M-<
+
+#Go to go to the end of the file.
+M->
+
+#NOTE:To active '>' and '<', you need to
+press 'M'+'Shift' at the same time.
