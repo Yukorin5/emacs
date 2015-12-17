@@ -7,7 +7,7 @@ To type "emacs + 'file name'" at the command line.
 C-x C-c
 
 (3)Save the file with a name.
-c-x c-w
+C-x C-w
 
 (4)Overwrite the file.
 C-x C-s
