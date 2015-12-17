@@ -1,0 +1,11 @@
+#'C'='Control key', 'M'='Meta Key'.
+
+(1)How to show each file screen.
+#go to the next screen
+C-v
+
+#go back to the previous screen
+M-v
+
+#Rewrite the screen
+C-l

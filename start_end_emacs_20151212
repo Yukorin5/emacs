@@ -1,0 +1,17 @@
+#'C'='Control key', 'M'='Meta Key'.
+
+(1) How to open emacs.
+To type "emacs + 'file name'" at the command line.
+
+
+(2)How to close emacs.
+C-x
+C-c
+
+(3)Save the file with a name.
+c-x
+c-w
+
+(4)Overwrite the file.
+C-x
+C-s

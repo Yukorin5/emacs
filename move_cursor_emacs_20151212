@@ -1,0 +1,20 @@
+#'C'='Control key', 'M'='Meta Key'.
+
+(1)How to move the cursor.
+#go to the previous line
+C-p
+
+#go to the next line
+C-n
+
+#go back to the previous character
+C-b
+
+#go to the next character
+C-f
+
+##Tips##
+'p'=previous
+'n'=next
+'b'=back
+'f'=forward
